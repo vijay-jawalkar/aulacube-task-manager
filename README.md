@@ -1,8 +1,8 @@
 # How to setup this project on your local system
 
-Clone This repo on your local system
-run npm install command to install all dependencies.
-use this project on your local system
+Clone This repo on your local system \
+run npm install command to install all dependencies.\
+use this project on your local system\
 
 # Getting Started with Create React App
 
