@@ -3,6 +3,7 @@
 1. Clone This repo on your local system
 2. run npm install command to install all dependencies.
 3. use this project on your local system
+4. Or use this web app directly by clicking this link https://aulacube-task-manager-vijay.netlify.app/
 
 
 
