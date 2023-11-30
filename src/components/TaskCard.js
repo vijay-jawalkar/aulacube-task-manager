@@ -1,7 +1,7 @@
-import { useState, useRef } from "react";
+import {  useRef } from "react";
 
 export const TaskCard = ({ task, taskList, setTaskList, setTask }) => {
-    const [checked, setChecked] = useState(false);
+
   const color = useRef("low");
 
   const handleDelete = (id) => {
