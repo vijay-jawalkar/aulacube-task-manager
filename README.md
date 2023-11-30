@@ -1,17 +1,19 @@
 # How to setup this project on your local system
 
-Clone This repo on your local system \
-run npm install command to install all dependencies.\
-use this project on your local system
+1. Clone This repo on your local system
+2. run npm install command to install all dependencies.
+3. use this project on your local system
+
+
 
 # Features Of Project
 
-1. Add Task which contain name, description, priority level and task progress\
-2. Display list of tasks\
-3. User can edit task and do mark as complete task\
-4. User can delete one task or clear all tasks with one click\
-5. Displayed tasks remain same even after refresh\
-6. Change background color\
+1. Add Task which contain name, description, priority level and task progress
+2. Display list of tasks
+3. User can edit task and do mark as complete task
+4. User can delete one task or clear all tasks with one click
+5. Displayed tasks remain same even after refresh
+6. Change background color
 7. Complete responsive for desktop, tablet and mobile devices.
 
 # Getting Started with Create React App
